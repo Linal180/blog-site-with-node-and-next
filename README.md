@@ -28,7 +28,7 @@ This project consists of a frontend built with Next.js for dynamic blog content 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone git@github.com:AdeelKamalMalik/nextjs-template.git
+   git clone git@github.com:Linal180/nextjs-template.git
    cd nextjs-template
    ```
 
@@ -82,7 +82,7 @@ yarn start
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone git@github.com:AdeelKamalMalik/nodejs-template.git
+   git clone git@github.com:Linal180/nodejs-template.git
    cd nodejs-template
    ```
 
